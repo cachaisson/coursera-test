@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, inital-scale=1">
+<title>Assignment Solution for Module 2</title>
+</head>
+<body>
+<h1 align="center">Our Menu</h1>
 
+<section id="p1">
+	<h2 style="background-color: green">Chicken</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.</p>
+</section>
+<section id="p2">
+	<h2 style="background-color: gray">Beef</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.</p>
+</section>
+<section id="p3">
+	<h2 style="background-color: yellow">Sushi</h2>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit error quis ab perspiciatis eos inventore recusandae iste itaque numquam facilis, tenetur. Doloribus officiis quae facilis, nisi, ex similique. Animi, perferendis.</p>
+</section>
+
+</body>
+</html>
